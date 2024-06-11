@@ -1,0 +1,14 @@
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\bin\Debug\net8.0\Lessonsnet.exe
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\bin\Debug\net8.0\Lessonsnet.deps.json
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\bin\Debug\net8.0\Lessonsnet.runtimeconfig.json
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\bin\Debug\net8.0\Lessonsnet.dll
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\bin\Debug\net8.0\Lessonsnet.pdb
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.AssemblyInfoInputs.cache
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.AssemblyInfo.cs
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.csproj.CoreCompileInputs.cache
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.dll
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\refint\Lessonsnet.dll
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.pdb
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\Lessonsnet.genruntimeconfig.cache
+C:\Users\Alekseyuwka\source\repos\lessons\Lesson28\obj\Debug\net8.0\ref\Lessonsnet.dll
